@@ -1,0 +1,1 @@
+streamlit run "C:\Users\SHOPINVERSE\Documents\GitHub\DiabetesPredictin\streamlit_app.py"

@@ -1,0 +1,6 @@
+setuptools
+numpy==1.23.5
+pickle-mixin==1.0.2
+streamlit==1.26.0
+scikit-learn==1.2.1
+xgboost==2.1.1
